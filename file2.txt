@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 This is a tes
 Adding a second line to check conflict
-=======
-This is a tes
-Adding a second line to check conflict
->>>>>>> newbranch
+
+
+
+
